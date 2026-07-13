@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Using * with Tags</title>
+    <style>
+      /* Applies to all tags */
+      * {
+        font-family: Arial, sans-serif;
+      }
+
+      /* Applies only to elements INSIDE <div> */
+      div * {
+        color: blue;
+        font-weight: bold;
+      }
+
+      /* Applies only to elements INSIDE <p> */
+      p {
+        align-items: center;
+        color: rgb(141, 92, 92);
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>This is a heading (affected by *)</h1>
+
+    <div>
+      This is a div.
+      <span>Span inside div (blue + bold)</span>
+      <strong>Strong inside div (blue + bold)</strong>
+    </div>
+
+    <p>
+      This is a paragraph.
+      <em>Emphasized text inside p (red + underlined)</em>
+      <b>Bold text inside p (red + underlined)</b>
+    </p>
+  </body>
+</html>

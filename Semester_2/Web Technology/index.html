@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML form</title>
+    <style>
+      table {
+        border-collapse: collapse;
+        text-align: center;
+      }
+      td,
+      th {
+        border: 1px solid black;
+        padding: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <table>
+        <tr>
+          <th colspan="2">Student Information</th>
+        </tr>
+        <tr>
+          <td>
+            <label for="name"> Your Name </label>
+          </td>
+          <td><input type="text" id="name" /></td>
+        </tr>
+        <tr>
+          <td>
+            <label for="gender">Gender</label>
+          </td>
+          <td>
+            Male<input type="radio" name="gender" /> Female<input
+              type="radio"
+              name="gender"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td><label for="email">Email</label></td>
+          <td><input type="email" id="email" /></td>
+        </tr>
+        <tr>
+          <td><label for="address">Address</label></td>
+          <td><input type="text" id="address" /></td>
+        </tr>
+        <tr>
+          <td><label for="pic">Your pic</label></td>
+          <td><input type="file" /></td>
+        </tr>
+        <tr>
+          <td><label for="education">Education</label></td>
+          <td>
+            <select>
+              <option value="sub1">Master Degree</option>
+              <option value="sub2">Bachelor's Degree</option>
+              <option value="sub3">Plus two</option>
+              <option value="sub4">SEE</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Select</td>
+          <td><input type="checkbox" id="ve1" />
+      <label for="ve1">Car</label>
+      <input type="checkbox" id="ve2" />
+      <label for="ve2">Bike</label>
+      <input type="checkbox" id="ve3" />
+      <label for="ve3">Scooty</label></td>
+        </tr>
+        <tr>
+          <td colspan="2"><input type="submit" value="Register" /></td>
+        </tr>
+      </table>
+      
+    </form>
+
+    <a href="./hello.html">Go to Table</a>
+  </body>
+</html>
