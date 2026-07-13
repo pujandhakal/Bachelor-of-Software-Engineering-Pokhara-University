@@ -1,6 +1,6 @@
-# Everest College
+# Everest Engineering College
 
-A collection of Software Engineering study materials from Everest College, organized by semester. It includes course notes, lab work, assignments, and reference documents.
+A collection of Software Engineering study materials from Everest Engineering College, organized by semester. It includes course notes, lab work, assignments, and reference documents.
 
 ## Contents
 
