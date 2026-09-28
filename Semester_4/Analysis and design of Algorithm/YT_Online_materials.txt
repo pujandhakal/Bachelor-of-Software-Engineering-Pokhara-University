@@ -1,4 +1,0 @@
-1. Tree vertex splitting problem: https://youtu.be/NLnz9eLrC8A
-2. Job sequencing with deadline: https://youtu.be/SobNaXRw404
-3. Minimum Edit distance (Dynamic Programming) for converting one string to another string: https://youtu.be/b6AGUjqIPsA
-4. Optimal binary search tree: https://youtu.be/-ocYCD3jRTQ
