@@ -15,10 +15,10 @@ organized by semester.
 
 | | Semester | Subjects |
 | :-: | --- | --- |
-| 1️⃣ | **Semester 1** | Problem Solving Techniques · Calculus I · C Programming · Digital Logic · Discrete Mathematics · Engineering Drawing · Software I · Lab |
-| 2️⃣ | **Semester 2** | Algebra and Geometry · Applied Physics · C++ · Communication Techniques · Microprocessor and Computer Architecture · Web Technology |
-| 3️⃣ | **Semester 3** | Calculus II · Data Structures and Algorithms · DBMS · Java · Probability and Statistics · Software Engineering Fundamentals |
-| 4️⃣ | **Semester 4** | Analysis and Design of Algorithms · Computer Graphics · Numerical Methods · OODM through UML · Research Fundamentals · System Programming |
+| 1️⃣ | **Semester 1** | 1. Problem Solving Techniques<br>2. Calculus I<br>3. C Programming<br>4. Digital Logic<br>5. Discrete Mathematics<br>6. Engineering Drawing<br>7. Software I<br>8. Lab |
+| 2️⃣ | **Semester 2** | 1. Algebra and Geometry<br>2. Applied Physics<br>3. C++<br>4. Communication Techniques<br>5. Microprocessor and Computer Architecture<br>6. Web Technology |
+| 3️⃣ | **Semester 3** | 1. Calculus II<br>2. Data Structures and Algorithms<br>3. DBMS<br>4. Java<br>5. Probability and Statistics<br>6. Software Engineering Fundamentals |
+| 4️⃣ | **Semester 4** | 1. Analysis and Design of Algorithms<br>2. Computer Graphics<br>3. Numerical Methods<br>4. OODM through UML<br>5. Research Fundamentals<br>6. System Programming |
 
 ## Reference
 
